@@ -1,0 +1,14 @@
+{
+    "name": "bitgameslp/blockchain",
+    "description": "Plataforma Block Chain para la Dapps Bit Games LP",
+    "authors": [
+        {
+            "name": "Ing. Manuel Ramirez",
+            "email": "ManuelVR461@gmail.com"
+        }
+    ],
+    "require": {
+        "simplito/elliptic-php": "^1.0",
+        "symfony/uid": "^5.1"
+    }
+}
